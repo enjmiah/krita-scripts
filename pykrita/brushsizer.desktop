@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=brushsizer
+X-Python-2-Compatible=false
+Name=Brush Sizer
+Comment=Smarter brush size adjustment actions.

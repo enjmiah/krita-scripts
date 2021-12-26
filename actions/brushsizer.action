@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+	<Actions category="Scripts">
+
+		<text>Brush Sizer</text>
+
+		<Action name="increaseBrushSizeSmart">
+			<icon></icon>
+			<text>Increase Brush Size (Smart)</text>
+			<whatsThis></whatsThis>
+			<toolTip></toolTip>
+			<iconText></iconText>
+			<activationFlags>10000</activationFlags>
+			<activationConditions>0</activationConditions>
+			<shortcut>f</shortcut>
+			<isCheckable>false</isCheckable>
+			<statusTip></statusTip>
+		</Action>
+
+		<Action name="decreaseBrushSizeSmart">
+			<icon></icon>
+			<text>Decrease Brush Size (Smart)</text>
+			<whatsThis></whatsThis>
+			<toolTip></toolTip>
+			<iconText></iconText>
+			<activationFlags>10000</activationFlags>
+			<activationConditions>0</activationConditions>
+			<shortcut>d</shortcut>
+			<isCheckable>false</isCheckable>
+			<statusTip></statusTip>
+		</Action>
+
+	</Actions>
+</ActionCollection>
