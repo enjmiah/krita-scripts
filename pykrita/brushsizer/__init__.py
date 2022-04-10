@@ -1,4 +1,3 @@
-import krita as kr
 from krita import Extension, Krita
 
 
