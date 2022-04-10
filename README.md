@@ -25,3 +25,6 @@ Mimics the behaviour of a certain popular digital painting program.
 Provides:
  - Tools > Scripts > Increase Brush Size (Smart)
  - Tools > Scripts > Decrease Brush Size (Smart)
+
+The default keybindings are <kbd>[</kbd> and <kbd>]</kbd>, but they can be
+changed in the Keyboard Shortcuts section of the Krita settings.
